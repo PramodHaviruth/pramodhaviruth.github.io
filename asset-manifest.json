@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bugtracker/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/bugtracker/static/js/main.a9158d7b.chunk.js",
+    "main.js.map": "/bugtracker/static/js/main.a9158d7b.chunk.js.map",
+    "runtime-main.js": "/bugtracker/static/js/runtime-main.35efaa68.js",
+    "runtime-main.js.map": "/bugtracker/static/js/runtime-main.35efaa68.js.map",
+    "static/js/2.79bc0c71.chunk.js": "/bugtracker/static/js/2.79bc0c71.chunk.js",
+    "static/js/2.79bc0c71.chunk.js.map": "/bugtracker/static/js/2.79bc0c71.chunk.js.map",
+    "static/js/3.f5324227.chunk.js": "/bugtracker/static/js/3.f5324227.chunk.js",
+    "static/js/3.f5324227.chunk.js.map": "/bugtracker/static/js/3.f5324227.chunk.js.map",
+    "index.html": "/bugtracker/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/bugtracker/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.79bc0c71.chunk.js.LICENSE.txt": "/bugtracker/static/js/2.79bc0c71.chunk.js.LICENSE.txt",
+    "static/media/BugTracker.0b528d8c.png": "/bugtracker/static/media/BugTracker.0b528d8c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35efaa68.js",
+    "static/js/2.79bc0c71.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.a9158d7b.chunk.js"
+  ]
+}
